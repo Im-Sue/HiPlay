@@ -1,0 +1,11 @@
+{
+  "sayHello":"妳好:{name}",
+  "menu:dashboard":"儀表盤",
+  "menu:analysis":"分析頁",
+  "menu:monitor":"監控頁(外部)",
+  "menu:workplace":"工作臺",
+  "menu:i18n-test":"i18n測試頁",
+  "home-index":"首頁",
+  "menu:i18n-mgr":"國際化管理",
+  "menu:i18n-index":"資源"
+}

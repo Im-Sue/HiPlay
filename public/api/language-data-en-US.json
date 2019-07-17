@@ -1,0 +1,11 @@
+{
+  "sayHello":"Hello {name}",
+  "menu:dashboard":"Dashboard",
+  "menu:analysis":"Analysis",
+  "menu:monitor":"Monitor",
+  "menu:workplace":"Workplace",
+  "menu:i18n-test":"I18N Test",
+  "home-index":"Home",
+  "menu:i18n-mgr":"i18n manage",
+  "menu:i18n-resource":"resource"
+}
